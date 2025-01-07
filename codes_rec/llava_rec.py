@@ -7,7 +7,7 @@ from transformers import BitsAndBytesConfig, pipeline
 import pandas as pd
 
 # Login to Hugging Face Hub
-login(token="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")
+login(token="your_hugging_face_token")
 
 quantization_config = BitsAndBytesConfig(
     load_in_4bit=True,
