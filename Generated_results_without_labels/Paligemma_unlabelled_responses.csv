@@ -1,0 +1,151 @@
+Image_Name,Recognised Food Item,Recipe generated,List of ingredients predicted,Step by step instructions generated
+Cinnamon Sugar Sourdough Waffles,"Which is the food item in the image?
+waffle","Generate a recipe for the dish shown in the image.
+waffle","Provide the list of ingredients.
+waffles","Provide step-by-step instructions.
+waffles"
+Apple Pie Smoothie,"Which is the food item in the image?
+apple","Generate a recipe for the dish shown in the image.
+apple and cinnamon smoothie","Provide the list of ingredients.
+smoothie","Provide step-by-step instructions.
+smoothie"
+Cast-Iron Pizza with Fennel and Sausage,"Which is the food item in the image?
+pizza","Generate a recipe for the dish shown in the image.
+make a recipe","Provide the list of ingredients.
+pizza","Provide step-by-step instructions.
+pizza in a pan"
+Brown Butter–Basted Steak,"Which is the food item in the image?
+steak","Generate a recipe for the dish shown in the image.
+steak with salt","Provide the list of ingredients.
+food & drink","Provide step-by-step instructions.
+how to cook a steak"
+Classic Spaghetti and Meatballs,"Which is the food item in the image?
+spaghetti","Generate a recipe for the dish shown in the image.
+spaghetti and meatballs","Provide the list of ingredients.
+spaghetti and meatballs","Provide step-by-step instructions.
+noodles and meatballs"
+BA's Best Apple Cider Doughnuts,"Which is the food item in the image?
+Donuts","Generate a recipe for the dish shown in the image.
+doughnut","Provide the list of ingredients.
+doughnuts","Provide step-by-step instructions.
+doughnuts"
+3-Ingredient Curry Grilled Chicken Wings,"Which is the food item in the image?
+chicken wings","Generate a recipe for the dish shown in the image.
+grilled chicken wings","Provide the list of ingredients.
+grilled chicken wings","Provide step-by-step instructions.
+grilled chicken wings"
+"""Nextover"" Chicken Tacos with Quick Refried Beans","Which is the food item in the image?
+tacos","Generate a recipe for the dish shown in the image.
+tacos with black beans","Provide the list of ingredients.
+tacos","Provide step-by-step instructions.
+tacos"
+Apple Bok Choy Salad,"Which is the food item in the image?
+salad","Generate a recipe for the dish shown in the image.
+bok choy salad","Provide the list of ingredients.
+salad","Provide step-by-step instructions.
+salad"
+Ramen Noodles with Kale,"Which is the food item in the image?
+noodles","Generate a recipe for the dish shown in the image.
+asian noodles with kale and mushrooms","Provide the list of ingredients.
+noodles","Provide step-by-step instructions.
+noodles"
+Breakfast Burritos,"Which is the food item in the image?
+quesadillas","Generate a recipe for the dish shown in the image.
+quesadillas","Provide the list of ingredients.
+taco","Provide step-by-step instructions.
+tacos"
+Cheese Omelette,"Which is the food item in the image?
+omelette","Generate a recipe for the dish shown in the image.
+egg white omelet","Provide the list of ingredients.
+omelette","Provide step-by-step instructions.
+how to make an omelette"
+Sushi Sandwiches,"Which is the food item in the image?
+sushi","Generate a recipe for the dish shown in the image.
+tuna roll up","Provide the list of ingredients.
+lunch box","Provide step-by-step instructions.
+lunch box"
+Bacon-Cheddar Muffins,"Which is the food item in the image?
+muffin","Generate a recipe for the dish shown in the image.
+savory cornbread muffins","Provide the list of ingredients.
+muffins","Provide step-by-step instructions.
+muffins"
+Fish and Chips with Malt Vinegar Mayonnaise,"Which is the food item in the image?
+fish and chips","Generate a recipe for the dish shown in the image.
+fish and chips","Provide the list of ingredients.
+fish and chips","Provide step-by-step instructions.
+fish and chips"
+Chocolate-Malt Ice Cream,"Which is the food item in the image?
+ice cream","Generate a recipe for the dish shown in the image.
+chocolate ice cream","Provide the list of ingredients.
+chocolate and marshmallow ice cream","Provide step-by-step instructions.
+chocolate and marshmallow ice cream"
+Vegetable Quesadillas with Fresh Salsa,"Which is the food item in the image?
+quesadillas","Generate a recipe for the dish shown in the image.
+quesadillas","Provide the list of ingredients.
+quesadillas","Provide step-by-step instructions.
+quesadillas"
+Cocoa Brownies,"Which is the food item in the image?
+brownie","Generate a recipe for the dish shown in the image.
+brownies","Provide the list of ingredients.
+brownies","Provide step-by-step instructions.
+how to make the perfect brownie"
+Lasagna with Turkey Sausage Bolognese,"Which is the food item in the image?
+lasagna","Generate a recipe for the dish shown in the image.
+lasagna","Provide the list of ingredients.
+lasagna","Provide step-by-step instructions.
+lasagna"
+Chocolate Mayonnaise Cake,"Which is the food item in the image?
+Chocolate cake","Generate a recipe for the dish shown in the image.
+chocolate cake","Provide the list of ingredients.
+chocolate cake","Provide step-by-step instructions.
+chocolate cake"
+Berries and Buttermilk Puddings,"Which is the food item in the image?
+yogurt","Generate a recipe for the dish shown in the image.
+yogurt with berries","Provide the list of ingredients.
+yogurt","Provide step-by-step instructions.
+yogurt"
+Brined Fried Chicken,"Which is the food item in the image?
+Fried chicken","Generate a recipe for the dish shown in the image.
+fried chicken","Provide the list of ingredients.
+fried chicken","Provide step-by-step instructions.
+crispy fried chicken"
+Grilled Hot Dogs with Mango Chutney and Red Onion Relish,"Which is the food item in the image?
+hot dog","Generate a recipe for the dish shown in the image.
+hot dog","Provide the list of ingredients.
+hot dog","Provide step-by-step instructions.
+hot dog"
+Chai-Spiced Cheesecake with Ginger Crust,"Which is the food item in the image?
+cheesecake","Generate a recipe for the dish shown in the image.
+cheesecake","Provide the list of ingredients.
+cheesecake","Provide step-by-step instructions.
+cheesecake"
+Coconut Red-Lentil Curry,"Which is the food item in the image?
+soup","Generate a recipe for the dish shown in the image.
+red lentil soup","Provide the list of ingredients.
+soup","Provide step-by-step instructions.
+soup"
+Burgers with Mozzarella and Spinach-Arugula Pesto,"Which is the food item in the image?
+burger","Generate a recipe for the dish shown in the image.
+black bean burger","Provide the list of ingredients.
+burger","Provide step-by-step instructions.
+recipe"
+Crispy Spring Rolls (Cha Gio),"Which is the food item in the image?
+spring roll","Generate a recipe for the dish shown in the image.
+fried spring rolls","Provide the list of ingredients.
+spring rolls","Provide step-by-step instructions.
+fry the spring rolls"
+"Caramelized Chocolate, Banana, and Marshmallow Sandwiches","Which is the food item in the image?
+grilled cheese sandwich","Generate a recipe for the dish shown in the image.
+s mores grilled cheese","Provide the list of ingredients.
+grilled cheese sandwich","Provide step-by-step instructions.
+grilled cheese sandwich"
+Pasta Cacio e Pepe,"Which is the food item in the image?
+pasta","Generate a recipe for the dish shown in the image.
+spinach and cheese pasta","Provide the list of ingredients.
+pasta","Provide step-by-step instructions.
+pasta"
+Buttermilk Pancakes,"Which is the food item in the image?
+pancake","Generate a recipe for the dish shown in the image.
+pancakes","Provide the list of ingredients.
+pancakes","Provide step-by-step instructions.
+syrup being poured on pancakes"
