@@ -5,7 +5,7 @@ from transformers import Blip2Processor, Blip2ForConditionalGeneration
 from huggingface_hub import login
 
 # Login to Hugging Face Hub
-login(token="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")
+login(token="your_hugging_face_token")
 
 # Set device to CUDA:0
 device = torch.device("cuda:0")
